@@ -1,0 +1,2 @@
+# Handwriting-Comparison
+This project aims to solve a handwriting comparison problem. Multiple images of different writers are taken and they are compared to check whether they are coming from the same writer or a pair of different writers. To solve this problem, Linear Regression, Logistic Regression and Neural Networks approach is used. Through this project, we compare the results of all these approaches and arrive on an optimal result.
